@@ -1,4 +1,8 @@
 [
   "github-sync",
-  "terminal"
+  "terminal",
+  "webpage-html-export",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "excalibrain"
 ]

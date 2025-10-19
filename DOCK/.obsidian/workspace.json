@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "20d8e6d58f262742",
+        "id": "916faf7bd6769535",
         "type": "tabs",
         "children": [
           {
-            "id": "d3825acdfddc5894",
+            "id": "3dada2b244a1e23d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Threejs/GPGPU.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Excalidraw/Drawing 2025-10-19 18.53.26.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "GPGPU"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-19 18.53.26.excalidraw"
             }
           }
         ]
@@ -81,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.5,
+    "collapsed": true
   },
   "right": {
     "id": "61f792416f18e8de",
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threejs/GPGPU.canvas",
+                "file": "ExcaliBrain/excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GPGPU"
+              "title": "Backlinks for excalibrain"
             }
           },
           {
@@ -131,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threejs/GPGPU.canvas",
+                "file": "ExcaliBrain/excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GPGPU"
+              "title": "Outgoing links from excalibrain"
             }
           },
           {
@@ -145,17 +141,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threejs/GPGPU.canvas",
+                "file": "ExcaliBrain/excalibrain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GPGPU"
+              "title": "Outline of excalibrain"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,19 +167,56 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "github-sync:Sync with Remote": false,
-      "terminal:Open terminal": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "terminal:Open terminal": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "d3825acdfddc5894",
+  "active": "3dada2b244a1e23d",
   "lastOpenFiles": [
-    "Threejs/GPGPU.canvas",
-    "Threejs/Untitled.md",
-    "Threejs/sds Threejs.md",
-    "Threejs/Untitled 1.md",
-    "gcm-linux_amd64.deb",
-    "Threejs/GPGPU.md",
+    "Pasted Image 20251019190802_881.png",
+    "Pasted Image 20251019190712_849.png",
+    "Excalidraw/Drawing 2025-10-19 18.53.26.excalidraw.md",
+    "Excalidraw/Threejs.md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2025-10-19 18.53.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-19 18.09.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-19 16.52.05.excalidraw.md",
+    "Untitled.base",
+    "Threejs/GPGPU/Base Geometry.md",
+    "ExcaliBrain/excalibrain.md",
+    "Threejs/Setup/Scene.md",
+    "Threejs/GPGPU/Fragment Shader.md",
+    "Excalidraw/Drawing 2025-10-19 18.02.16.excalidraw.md",
+    "Excalidraw/ExcaliBrain Snapshot - Base Geometry.excalidraw.md",
+    "Threejs/GPGPU/Vertex Shader.md",
+    "Threejs/Setup/Canvas.md",
+    "Threejs/Setup/Renderer.md",
+    "[[Threejs/GPGPU/Base Geometry.md]].md",
+    "[[Threejs/GPGPU",
+    "[[Threejs",
+    "Threejs/Program.md",
+    "Threejs/Setup/Camera.md",
+    "Threejs/Setup",
+    "Threejs/GPGPU",
+    "Excalidraw/ExcaliBrain Snapshot - Drawing 2025-10-19 15.45.18.excalidraw.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-19 15.45.18.excalidraw.md",
+    "Untitled.canvas",
+    "Excalibrain.md",
     "Untitled.md",
-    "Welcome.md",
-    "Threejs"
+    "Threejs/00.base",
+    "Threejs/🚀 Setting Up Three.js from Scratch (2025 Guide).md",
+    "Excalidraw/ExcaliBrain Snapshot - ExcaliBrain Snapshot - Drawing 2025-10-19 15.45.18.excalidraw.excalidraw.excalidraw.md",
+    "Pasted image 20251019155932.png",
+    "Threejs/Setup.canvas",
+    "Excalidraw/Drawing 2025-10-19 15.28.36.excalidraw.md",
+    "ExcaliBrain",
+    "Excalidraw",
+    "Threejs/GPGPU.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Threejs/DOCK.html",
+    "DOCK.html"
   ]
 }
