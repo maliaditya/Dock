@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3dada2b244a1e23d",
+            "id": "7d1ec9a2829b066b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,8 +18,81 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-10-19 18.53.26.excalidraw"
             }
+          },
+          {
+            "id": "01aaef29e7d183d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mind.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mind"
+            }
+          },
+          {
+            "id": "3b92bb02fc14d00a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-07 13.32.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-07 13.32.32.excalidraw"
+            }
+          },
+          {
+            "id": "c1dc19e62762961c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ADHD.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ADHD"
+            }
+          },
+          {
+            "id": "87f3bca1631d80c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ThreeJS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ThreeJS"
+            }
+          },
+          {
+            "id": "58522e1e2775d4a8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/WebGL.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "WebGL"
+            }
+          },
+          {
+            "id": "e9264a3c2227ee22",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Unlimited Memory.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Unlimited Memory.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
+    "width": 312.5,
     "collapsed": true
   },
   "right": {
@@ -172,21 +245,37 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "3dada2b244a1e23d",
+  "active": "c1dc19e62762961c",
   "lastOpenFiles": [
-    "Pasted Image 20251019190802_881.png",
-    "Pasted Image 20251019190712_849.png",
+    "Excalidraw/Drawing 2025-11-07 13.32.32.excalidraw.md",
+    "Excalidraw/ADHD.md",
+    "Excalidraw/Mind.md",
     "Excalidraw/Drawing 2025-10-19 18.53.26.excalidraw.md",
+    "Excalidraw/ThreeJS.md",
+    "Excalidraw/WebGL.md",
+    "Excalidraw/Unlimited Memory.excalidraw.md",
+    "Books/9f20f181dbcd5f8ac02b71ce4372f8c9.pdf",
+    "Pasted Image 20251110195028_852.png",
+    "ExcaliBrain/excalibrain.md",
+    "toggle-switch-set-clipping-path-260nw-246271393-removebg-preview.png",
+    "toggle-switch-set-clipping-path-260nw-246271393.webp",
+    "pngtree-flat-style-switch-slider-icon-with-volume-control-vector-vector-png-image_49736708-removebg-preview.png",
+    "color-removebg-preview.png",
+    "color.jpeg",
+    "Screenshot from 2025-11-02 15-34-03.png",
+    "photo-1482784160316-6eb046863ece.avif",
+    "Firefly_Gemini Flash_remove steering and dash board 920060.png",
+    "Firefly_Gemini Flash.png",
+    "Excalidraw/Drawing 2025-10-31 13.00.22.excalidraw.md",
+    "Threejs/GPGPU/Base Geometry.md",
+    "Untitled.base",
+    "Threejs/GPGPU/Fragment Shader.md",
     "Excalidraw/Threejs.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Drawing 2025-10-19 18.53.07.excalidraw.md",
     "Excalidraw/Drawing 2025-10-19 18.09.39.excalidraw.md",
     "Excalidraw/Drawing 2025-10-19 16.52.05.excalidraw.md",
-    "Untitled.base",
-    "Threejs/GPGPU/Base Geometry.md",
-    "ExcaliBrain/excalibrain.md",
     "Threejs/Setup/Scene.md",
-    "Threejs/GPGPU/Fragment Shader.md",
     "Excalidraw/Drawing 2025-10-19 18.02.16.excalidraw.md",
     "Excalidraw/ExcaliBrain Snapshot - Base Geometry.excalidraw.md",
     "Threejs/GPGPU/Vertex Shader.md",
@@ -200,23 +289,15 @@
     "Threejs/Setup",
     "Threejs/GPGPU",
     "Excalidraw/ExcaliBrain Snapshot - Drawing 2025-10-19 15.45.18.excalidraw.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-19 15.45.18.excalidraw.md",
     "Untitled.canvas",
-    "Excalibrain.md",
-    "Untitled.md",
     "Threejs/00.base",
-    "Threejs/🚀 Setting Up Three.js from Scratch (2025 Guide).md",
-    "Excalidraw/ExcaliBrain Snapshot - ExcaliBrain Snapshot - Drawing 2025-10-19 15.45.18.excalidraw.excalidraw.excalidraw.md",
-    "Pasted image 20251019155932.png",
     "Threejs/Setup.canvas",
-    "Excalidraw/Drawing 2025-10-19 15.28.36.excalidraw.md",
     "ExcaliBrain",
     "Excalidraw",
     "Threejs/GPGPU.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Threejs/DOCK.html",
-    "DOCK.html"
+    "Threejs/DOCK.html"
   ]
 }

@@ -249,8 +249,10 @@
     "Excalidraw/ExcaliBrain Snapshot - Base Geometry.excalidraw.md",
     "Excalidraw/Threejs.md",
     "Excalidraw/Drawing 2025-10-19 16.52.05.excalidraw.md",
+    "Threejs/GPGPU/Fragment Shader.md",
+    "Books/9f20f181dbcd5f8ac02b71ce4372f8c9.pdf",
     "Threejs/GPGPU/Base Geometry.md",
-    "Threejs/GPGPU/Fragment Shader.md"
+    "Excalidraw/Drawing 2025-10-19 18.53.26.excalidraw.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
