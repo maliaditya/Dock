@@ -56,6 +56,35 @@
             }
           },
           {
+            "id": "33f44dbe253c1088",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/PLAN - A.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PLAN - A"
+            }
+          },
+          {
+            "id": "56696d19bd81135d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Math.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Math"
+            }
+          },
+          {
             "id": "87f3bca1631d80c5",
             "type": "leaf",
             "state": {
@@ -65,6 +94,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "ThreeJS"
+            }
+          },
+          {
+            "id": "18a5c5161c6baf81",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-15 15.13.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-15 15.13.49.excalidraw"
             }
           },
           {
@@ -92,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -245,10 +286,18 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "c1dc19e62762961c",
+  "active": "87f3bca1631d80c5",
   "lastOpenFiles": [
     "Excalidraw/ThreeJS.md",
+    "Pasted Image 20251117164411_052.png",
+    "Pasted Image 20251117164033_268.png",
+    "Pasted Image 20251117163525_191.png",
+    "Math.canvas",
+    "Excalidraw/Math.md",
+    "Excalidraw/PLAN - A.md",
     "Excalidraw/ADHD.md",
+    "Excalidraw/Drawing 2025-11-15 15.13.49.excalidraw.md",
+    "600px-LimbicSystem.png",
     "Excalidraw/Drawing 2025-11-07 13.32.32.excalidraw.md",
     "Excalidraw/Mind.md",
     "Excalidraw/Drawing 2025-10-19 18.53.26.excalidraw.md",
@@ -262,10 +311,6 @@
     "pngtree-flat-style-switch-slider-icon-with-volume-control-vector-vector-png-image_49736708-removebg-preview.png",
     "color-removebg-preview.png",
     "color.jpeg",
-    "Screenshot from 2025-11-02 15-34-03.png",
-    "photo-1482784160316-6eb046863ece.avif",
-    "Firefly_Gemini Flash_remove steering and dash board 920060.png",
-    "Firefly_Gemini Flash.png",
     "Excalidraw/Drawing 2025-10-31 13.00.22.excalidraw.md",
     "Threejs/GPGPU/Base Geometry.md",
     "Untitled.base",
@@ -281,15 +326,10 @@
     "Threejs/GPGPU/Vertex Shader.md",
     "Threejs/Setup/Canvas.md",
     "Threejs/Setup/Renderer.md",
-    "[[Threejs/GPGPU/Base Geometry.md]].md",
     "[[Threejs/GPGPU",
     "[[Threejs",
-    "Threejs/Program.md",
-    "Threejs/Setup/Camera.md",
     "Threejs/Setup",
     "Threejs/GPGPU",
-    "Excalidraw/ExcaliBrain Snapshot - Drawing 2025-10-19 15.45.18.excalidraw.excalidraw.md",
-    "Untitled.canvas",
     "Threejs/00.base",
     "Threejs/Setup.canvas",
     "ExcaliBrain",
