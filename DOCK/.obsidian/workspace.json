@@ -75,8 +75,8 @@
               "state": {
                 "file": "Math.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -803,
+                  "y": -350.09375,
                   "zoom": 0
                 }
               },
@@ -94,6 +94,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "ThreeJS"
+            }
+          },
+          {
+            "id": "0f2847d8ebb169bf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Operating System - Unix.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Operating System - Unix"
             }
           },
           {
@@ -133,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -286,16 +298,18 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "87f3bca1631d80c5",
+  "active": "0f2847d8ebb169bf",
   "lastOpenFiles": [
+    "Excalidraw/PLAN - A.md",
+    "Excalidraw/ADHD.md",
+    "Math.canvas",
     "Excalidraw/ThreeJS.md",
+    "Excalidraw/Operating System - Unix.md",
+    "Excalidraw/Drawing 2025-11-18 15.07.11.excalidraw.md",
     "Pasted Image 20251117164411_052.png",
     "Pasted Image 20251117164033_268.png",
     "Pasted Image 20251117163525_191.png",
-    "Math.canvas",
     "Excalidraw/Math.md",
-    "Excalidraw/PLAN - A.md",
-    "Excalidraw/ADHD.md",
     "Excalidraw/Drawing 2025-11-15 15.13.49.excalidraw.md",
     "600px-LimbicSystem.png",
     "Excalidraw/Drawing 2025-11-07 13.32.32.excalidraw.md",
@@ -324,8 +338,6 @@
     "Excalidraw/Drawing 2025-10-19 18.02.16.excalidraw.md",
     "Excalidraw/ExcaliBrain Snapshot - Base Geometry.excalidraw.md",
     "Threejs/GPGPU/Vertex Shader.md",
-    "Threejs/Setup/Canvas.md",
-    "Threejs/Setup/Renderer.md",
     "[[Threejs/GPGPU",
     "[[Threejs",
     "Threejs/Setup",

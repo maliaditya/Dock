@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"9a8420b5a09a0286","x":-886,"y":-417,"width":548,"height":310,"color":"4","type":"group","label":"Circles using Pi"},
-		{"id":"75d8471754060bf1","x":-868,"y":-396,"width":506,"height":272,"type":"text","text":"| Task               | Why               | Example          | Used   |\n| ------------------ | ----------------- | ---------------- | ------ |\n| Random directions  | Need whole circle | `rand * 2π`      | Graves |\n| Particle motion    | Circular movement | `cos(θ), sin(θ)` |        |\n| Rotations          | Full turn radian  | `rotation += 2π` |        |\n| Waves              | Full waveform     | `sin(t * 2π)`    |        |\n| Procedural noise   | Periodicity       | noise functions  |        |\n| Spherical sampling | Requires 0–2π     | 3D lighting      |        |\n| Raymarching        | Rotation matrices | `cos(a), sin(a)` |        |\n"}
+		{"id":"9a8420b5a09a0286","type":"group","x":-1362,"y":-616,"width":548,"height":310,"color":"4","label":"Circlular Motion or Positioning"},
+		{"id":"75d8471754060bf1","type":"text","text":"| Task               | Why               | Example          | Used   |\n| ------------------ | ----------------- | ---------------- | ------ |\n| Random directions  | Need whole circle | `rand * 2π`      | Graves |\n| Particle motion    | Circular movement | `cos(θ), sin(θ)` |        |\n| Rotations          | Full turn radian  | `rotation += 2π` |        |\n| Waves              | Full waveform     | `sin(t * 2π)`    |        |\n| Procedural noise   | Periodicity       | noise functions  |        |\n| Spherical sampling | Requires 0–2π     | 3D lighting      |        |\n| Raymarching        | Rotation matrices | `cos(a), sin(a)` |        |\n","x":-1344,"y":-595,"width":506,"height":272},
+		{"id":"5e548cbf761e3595","x":-726,"y":-680,"width":250,"height":60,"type":"text","text":"Waves motion or positionsing"}
 	],
 	"edges":[]
 }
