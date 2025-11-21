@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5d3b208630d9527",
+            "id": "9bbff4954ef9feec",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -17,6 +17,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "ADHD"
+            }
+          },
+          {
+            "id": "da4bba70bc74d984",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Xwindow+OpenGL.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Xwindow+OpenGL"
             }
           }
         ]
@@ -76,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c3412c361bae8738",
@@ -181,10 +192,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "b5d3b208630d9527",
-  "lastOpenFiles": []
+  "active": "9bbff4954ef9feec",
+  "lastOpenFiles": [
+    "DOCK/Excalidraw/ADHD.md",
+    "Excalidraw/Commitment Consistency and Courage.md",
+    "DOCK/600px-LimbicSystem.png",
+    "Excalidraw/Xwindow+OpenGL.md",
+    "Excalidraw"
+  ]
 }
